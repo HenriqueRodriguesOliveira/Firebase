@@ -1,6 +1,6 @@
 <h1>⚛️ Estudos de FireBase</h1>
 <h2>Estudos em React.js</h2>
 
-![Firebase](https://user-images.githubusercontent.com/79226722/165161964-91c7b14a-cd7c-4d29-bfba-87aee95c19b1.png)
+![Firebase1](https://user-images.githubusercontent.com/79226722/165162509-a4ec1b31-0a24-4434-a964-f46fd98a9272.png)
 
 ![Firebase2](https://user-images.githubusercontent.com/79226722/165161972-1ef37599-7193-45de-aee6-7700a893a1fe.png)
